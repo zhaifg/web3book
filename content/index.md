@@ -1,5 +1,3 @@
 ---
-title: Welcome to Logan World
+title: 一寸光阴不可轻
 ---
-
-Welcome to  Logan World.

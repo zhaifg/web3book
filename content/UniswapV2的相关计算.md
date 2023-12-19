@@ -1,10 +1,14 @@
-# Uniswap V2里的相关计算公式
+# ---
 
-# 
+title: Uniswap V2里的相关计算公式
+
+tags:
+
+- uniswap
+
+- defi
 
 在uniswap v2中， 默认是收取0.3% 的手续费，这个手续费是存入的资源的△X为基数的， 即先扣除0.3 % *  △X的 token X
-
-
 
 Token X 表示用户要出售的币种
 
